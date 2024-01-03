@@ -1,0 +1,37 @@
+.inp{
+    width: 250px;
+    margin-left: 8px;
+    margin-top: 50px;
+}
+.container{
+    background-image: url(https://i.pinimg.com/564x/8c/10/b3/8c10b3e7ab12a1e330c767b6daa1464f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 350px;
+    height: 500px;
+    border-radius: 5%;
+    
+}
+.head{
+    margin-top: 30px;
+    padding-top: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(1, 166, 255);
+
+}
+.div1{
+    display: flex;
+}
+.btn{
+    height: 40px;
+  margin-top: 50px;
+  margin-left: 2px;
+}
+.head3{
+    font-family: 'Courier New', Courier, monospace;
+}
+.head5{
+    font-size:smaller;
+    color: rgba(255, 255, 255, 0.428);
+}
